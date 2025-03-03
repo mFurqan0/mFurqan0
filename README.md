@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @FurqanGit00
 - 👀 I’m interested in DevOps Practices
-- 🌱 I’m currently learning Python,Git,Github to pursue my career as a DevOps Engineer
+- 🌱 I’m currently learning C++,Python,Git,Github,Github Actions to pursue my career as a DevOps Engineer
 - 💞️ I’m looking to collaborate on Python Projects for now
 - 📫 How to reach me : furqanbusiness0@gmail.com
-- 😄 Pronouns: He/him
+- 😄 Pronouns: Suggest Any!
 - ⚡ Fun fact: I love making projects :)
 
 <!---
